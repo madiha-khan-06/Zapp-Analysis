@@ -49,19 +49,19 @@ This repository contains a comprehensive analysis of Zapp, focusing on operation
 
 ## 🚀 Getting Started
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/madiha-khan-06/Zapp-Analysis.git
 ```
 
-###2️⃣ Install Required Libraries
+### 2️⃣ Install Required Libraries
 
-``bash
+```bash
 pip install pandas numpy matplotlib seaborn
 ```
 
-###3️⃣ Open the Notebook
+### 3️⃣ Open the Notebook
 ```bash
 jupyter notebook
 ```
