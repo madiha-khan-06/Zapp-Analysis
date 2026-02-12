@@ -20,12 +20,21 @@ This repository contains a comprehensive analysis of Zapp, focusing on operation
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
-- Zapp Market Analysis.ipynb  → Jupyter notebook for analysis  
-- Zapp_data.csv               → Dataset  
-- Zapp Analysis.pptx          → Final presentation  
-- LICENSE                     → MIT License  
+Zapp-Analysis/
+│
+├── data/                        # Dataset files
+│   └── Zapp_data.csv
+│
+├── notebooks/                   # Jupyter notebooks
+│   └── Zapp Market Analysis.ipynb
+│
+├── reports/                     # Final presentations
+│   └── Zapp Analysis.pptx
+│
+├── README.md                    # Project documentation
+└── LICENSE                      # MIT License 
 
 ---
 
