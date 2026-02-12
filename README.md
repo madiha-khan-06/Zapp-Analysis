@@ -22,6 +22,7 @@ This repository contains a comprehensive analysis of Zapp, focusing on operation
 
 ## 📂 Repository Structure
 
+```
 Zapp-Analysis/
 │
 ├── data/                        # Dataset files
@@ -34,7 +35,8 @@ Zapp-Analysis/
 │   └── Zapp Analysis.pptx
 │
 ├── README.md                    # Project documentation
-└── LICENSE                      # MIT License 
+└── LICENSE                      # MIT License
+``` 
 
 ---
 
