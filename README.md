@@ -49,20 +49,33 @@ This repository contains a comprehensive analysis of Zapp, focusing on operation
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/madiha-khan-06/Zapp-Analysis.git
-###2️⃣ Install required libraries
-```bash
+```
+
+###2️⃣ Install Required Libraries
+
+``bash
 pip install pandas numpy matplotlib seaborn
-###3️⃣ Open the notebook
+```
+
+###3️⃣ Open the Notebook
 ```bash
 jupyter notebook
-Open Zapp Market Analysis.ipynb to view the complete analysis.
-##📜 License
+```
+
+Open `Zapp Market Analysis.ipynb` to view the complete analysis.
+
+---
+
+## 📜 License
 This project is licensed under the MIT License.
 See the `LICENSE` file for more details.
-##🤝 Contributing
+
+---
+## 🤝 Contributing
+
 Contributions, issues, and suggestions are welcome!
 Feel free to open a pull request or create an issue.
